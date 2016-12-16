@@ -6,4 +6,4 @@ Es un **PaaS**
 
 Vamos a explicar cómo despegar Wordpress en Heroku.
 
-Para ello debes crearte una cuenta en [Heroku] [https://https://www.heroku.com]
+Para ello debes crearte una cuenta en [Heroku](https://https://www.heroku.com)
